@@ -81,7 +81,7 @@ If you are working in the in-browser IDE, type `httpserver` from the console to
 start up a temporary web server, and copy the URL provided into the browser's URL
 bar to view `index.html`.
 
-Just to speed things up a bit, paste the following code into `index.html`:
+Just to speed things up a bit, paste the following code into `index.html`: 
 
 ```html
 <!DOCTYPE html>
